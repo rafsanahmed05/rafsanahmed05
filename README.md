@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm Russell  
 
-<!--
-**rafsanahmed05/rafsanahmed05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me  
+- 🎓 Computer Science student with an interest in **Web Development & AI**  
+- 💻 Skilled in **HTML, CSS, JavaScript, React, Node.js, SQL**  
+- 🚀 Exploring **Full-Stack Development** and real-world projects  
+- 🌱 Currently learning **React.js & Backend APIs**  
+- 🎯 Goal: Become a versatile developer who can build impactful applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack  
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Node.js, Express.js  
+- **Database:** MySQL, MongoDB  
+- **Tools & Platforms:** Git, GitHub, VS Code  
+
+---
+
+### 📂 Projects  
+- 🌐 [QuickShop E-commerce Platform](#) – Connecting buyers, sellers, and customers  
+- 📝 [Portfolio Website](#) – Personal responsive portfolio  
+- 🔐 [Authentication System](#) – Secure login & registration using Node.js  
+
+---
+
+### 📫 Connect With Me  
+- LinkedIn:  
+- Email: rafsanahmedrasel@gmail.com  
+
+---
+⭐️ *“Code, Learn, and Build something that makes a difference.”*  
