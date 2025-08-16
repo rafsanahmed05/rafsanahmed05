@@ -25,8 +25,8 @@
 ---
 
 ### 📫 Connect With Me  
-- LinkedIn:  
-- Email: rafsanahmedrasel@gmail.com  
+- LinkedIn:www.linkedin.com/in/russell05
+- Email:rafsanahmedrasel@gmail.com  
 
 ---
 ⭐️ *“Code, Learn, and Build something that makes a difference.”*  
